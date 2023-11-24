@@ -1,0 +1,28 @@
+table {
+  width: 100%;
+  height: 125vh;
+}
+table, td, tr {
+  border-width: 0px;
+}
+body {
+  margin: 0px;
+}
+.navrow {
+  width: 100%;
+  background-color: gray;
+  height: 10vh;
+}
+.footerrow {
+  background-color: gray;
+  height: 25vh
+}
+.sidebar {
+  width: 25vw;
+}
+.ads {
+  width: 25vw;
+}
+.midrow {
+  height: 80vh;
+}
